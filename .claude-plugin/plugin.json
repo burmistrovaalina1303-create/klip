@@ -1,0 +1,6 @@
+{
+  "name": "klip",
+  "version": "1.0.0",
+  "description": "Нарізає довгі відео (стріми, подкасти, ефіри) на вертикальні кліпи 9:16 з субтитрами, хуком і описом для Shorts / Reels / TikTok.",
+  "keywords": ["video", "clips", "shorts", "reels", "tiktok", "subtitles", "whisper"]
+}
